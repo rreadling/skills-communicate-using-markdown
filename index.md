@@ -1,6 +1,6 @@
 # Welcome to Markdown 101!
 
-'''javascript
+''' javascript
 var myVar = "Hello, world!";
 '''
 
